@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 
 const Quiz = () => {
     const quizData = {
-        title: 'What is your relationship status?',
-        choices: ['Single', 'Commited', 'Married', 'NOTA'],
+        title: 'Which programming language do you prefer?',
+        choices: ['JavaScript', 'Python', 'Java', 'C++'],
       };
 
   return (
